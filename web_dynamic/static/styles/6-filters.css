@@ -101,3 +101,12 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+
+#amenity_id {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+li > input {
+    margin-right: 10px;
+}
